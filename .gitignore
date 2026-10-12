@@ -1,0 +1,17 @@
+node_modules/
+_deploy/
+*.json
+*.py
+*.txt
+*.log
+*.csv
+__pycache__/
+screenshots/
+*.png
+*.jpg
+*.pdf
+new_subs/
+YouTube/
+YouTube_JP/
+YouTube_SmallLangs/
+Bilibili/
